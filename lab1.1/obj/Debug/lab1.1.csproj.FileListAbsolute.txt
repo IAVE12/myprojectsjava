@@ -1,0 +1,9 @@
+D:\coding\.net\lab1.1\bin\Debug\lab1.1.exe.config
+D:\coding\.net\lab1.1\bin\Debug\lab1.1.exe
+D:\coding\.net\lab1.1\bin\Debug\lab1.1.pdb
+D:\coding\.net\lab1.1\obj\Debug\lab1.1.csproj.AssemblyReference.cache
+D:\coding\.net\lab1.1\obj\Debug\lab1.1.csproj.SuggestedBindingRedirects.cache
+D:\coding\.net\lab1.1\obj\Debug\lab1.1.csproj.CoreCompileInputs.cache
+D:\coding\.net\lab1.1\obj\Debug\lab1.1.exe
+D:\coding\.net\lab1.1\obj\Debug\lab1.1.pdb
+D:\coding\.net\lab1.1\bin\Debug\DataFile.txt
